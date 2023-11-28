@@ -1,9 +1,10 @@
-## Hello, I'm John
+<h1 align="center">Hi, I'm John</h1>
+<h3 align="center">An innovative engineering professional.</h3>
+All of my projects are available at [https:/github.com/9-5/](https:/github.com/9-5/)
+Reach me via email <a href="mailto:john@johnle.org">**john@johnle.org**</a>
 
-I'm a 23-year-old engineering technician with a passion for programming. My strengths lie in Python and Linux, and I'm currently working on expanding my skills in C#.
-
-### Connect with Me
-
-[<img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/85df95b3224c5fd2639d10a1c4ed5240371f61f7/svg/linkedin.svg" alt="LinkedIn" width="30" height="30">](https://linkedin.com/in/johnle)
-
-
+<h3 align="center">Connect With Me</h3>
+<p align="center">
+<a href="https://linkedin.com/in/johnle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="johnle" height="30" width="40" /></a>
+<a href="https://johnle.org/"><img align="center" src="https://raw.githubusercontent.com/9-5/Private/main/131-1312432_website-logo-png-transparent-background-image-black-logo.png?token=GHSAT0AAAAAACJZECG3YXFVZMW6QOYHNTZGZLGGI6A" alt="johnle.org" height="40" width="40" /></a>
+</p>
