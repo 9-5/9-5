@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm John</h1>
 <h3 align="center">An innovative engineering professional.</h3>
-Reach me via email <a href="mailto:john@johnle.org">**john@johnle.org**</a>
+<h3 align="center">Reach me via email <a href="mailto:john@johnle.org">john@johnle.org</a></h3>
 
 <h3 align="center">Connect With Me</h3>
 <p align="center">
