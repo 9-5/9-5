@@ -4,7 +4,7 @@
 
 <h3 align="center">Connect With Me</h3>
 <p align="center">
-<a href="https://linkedin.com/in/johnle" target="blank"><img align="center" src="https://raw.githubusercontent.com/9-5/9-5/main/linkedin.png" alt="johnle" height="40" width="40" /></a>
-<a href="https://johnle.org/"><img align="center" src="https://raw.githubusercontent.com/9-5/9-5/main/web.png" alt="johnle.org" height="40" width="40" /></a>
-<a href="https://github.com/9-5/"><img align="center" src="https://raw.githubusercontent.com/9-5/9-5/main/github.png" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/johnle" target="blank"><img align="center" src="https://raw.githubusercontent.com/9-5/9-5/main/linkedin.png" alt="johnle" height="50" width="50" /></a>
+<a href="https://johnle.org/"><img align="center" src="https://raw.githubusercontent.com/9-5/9-5/main/web.png" alt="johnle.org" height="50" width="50" /></a>
+<a href="https://github.com/9-5/"><img align="center" src="https://raw.githubusercontent.com/9-5/9-5/main/github.png" height="50" width="50" /></a>
 </p>
