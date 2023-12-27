@@ -8,3 +8,6 @@
 <a href="https://johnle.org/"><img align="center" src="https://raw.githubusercontent.com/9-5/9-5/main/web.png" alt="johnle.org" height="50" width="50" /></a>
 <a href="https://github.com/9-5/"><img align="center" src="https://raw.githubusercontent.com/9-5/9-5/main/github.png" height="50" width="50" /></a>
 </p>
+<p align="center">
+<a href="https://c0mputers.org/"><img align="center" src="https://raw.githubusercontent.com/9-5/9-5/main/web.png" alt="c0mputers.org" height="50" width="50" /></a>
+</p>
