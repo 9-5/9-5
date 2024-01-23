@@ -9,5 +9,5 @@
 <a href="https://github.com/9-5/"><img align="center" src="https://raw.githubusercontent.com/9-5/9-5/main/github.png" height="50" width="50" /></a>
 </p>
 <p align="center">
-<a href="https://c0mputers.org/"><img align="center" src="https://raw.githubusercontent.com/9-5/9-5/main/web.png" alt="c0mputers.org" height="50" width="50" /></a>
+<img align="center" src="https://raw.githubusercontent.com/9-5/9-5/0d67d0923b2e56f3c3495a7d6e0d8cf076fd69d4/snake.svg" />
 </p>
