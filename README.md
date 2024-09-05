@@ -2,8 +2,11 @@
 <h2 align="center">I'm a developer, tinkerer, engineering professional and IT hobbyist.</h2>
 <h2 align="center">Latest Blog Post: <a href="https://johnle.org/blog/post/2024/09/04/WinPE-VNC.html">Empowering WinPE with a Browser-Based VNC</a></h2>
 
-###
+<div align="center">
+<h2>Interesting Projects of Mine</h3>
+<a href="https://github.com/9-5/WinPE-VNC">WinPE VNC</a>: A VNC server within Windows Pre-Installation Environment, with a fully functional browser-based VNC client.
 
+###
 <h4 align="center">Where curiosity and innovation come together to build efficient solutions.</h4>
 <h3 align="center">Reach me via email <a href="mailto:john@johnle.org">john@johnle.org</a></h3>
 
