@@ -1,6 +1,6 @@
 <h1 align="center">I'm John.</h1>
 <h2 align="center">I'm a developer, tinkerer, engineering professional and IT hobbyist.</h2>
-<h2 align="center">Latest Blog Post: <a href="https://johnle.org/blog/post/2024/09/04/WinPE-VNC.html">Empowering WinPE with a Browser-Based VNC</a></h2>
+<h2 align="center">Latest Blog Post: <a href="https://johnle.org/blog/WinPE-VNC">Empowering WinPE with a Browser-Based VNC</a></h2>
 
 <div align="center">
 <h2>Interesting Projects of Mine</h3>
