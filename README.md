@@ -3,8 +3,13 @@
 <h2 align="center">Latest Blog Post: <a href="https://johnle.org/blog/WinPE-VNC">Empowering WinPE with a Browser-Based VNC</a></h2>
 
 <div align="center">
-<h2>Interesting Projects of Mine</h3>
-<a href="https://github.com/9-5/WinPE-VNC">WinPE VNC</a>: A VNC server within Windows Pre-Installation Environment, with a fully functional browser-based VNC client.
+<h2>Interesting Projects of Mine</h2>
+<h3><a href="https://github.com/9-5/WinPE-VNC">WinPE VNC</a></h3>
+
+<pre><code>
+A VNC server within Windows Pre-Installation Environment, with a fully functional browser-based VNC client.
+</code></pre>
+
 
 ###
 <h4 align="center">Where curiosity and innovation come together to build efficient solutions.</h4>
