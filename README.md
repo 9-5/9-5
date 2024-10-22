@@ -5,9 +5,13 @@
 <div align="center">
 <h2>Interesting Projects of Mine</h2>
 <h3><a href="https://github.com/9-5/WinPE-VNC">WinPE VNC</a></h3>
-
 <pre><code>
 A VNC server within Windows Pre-Installation Environment, with a fully functional browser-based VNC client.
+</code></pre>
+<h3><a href="https://github.com/9-5/Chromium-Intelligence">Chromium Intelligence</a></h3>
+<pre><code>
+An Apple Intelligence inspired Chromium extension built to add a context menu that has multiple options
+to edit or summarize selected text.
 </code></pre>
 
 
