@@ -10,8 +10,7 @@ A VNC server within Windows Pre-Installation Environment, with a fully functiona
 </code></pre>
 <h3><a href="https://github.com/9-5/Chromium-Intelligence">Chromium Intelligence</a></h3>
 <pre><code>
-An Apple Intelligence inspired Chromium extension built to add a context menu that has multiple options
-to edit or summarize selected text.
+A powerful Chromium extension that leverages the Gemini API to assist with various text operations, image analysis, and PDF processing.
 </code></pre>
 
 
