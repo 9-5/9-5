@@ -11,7 +11,7 @@ browser-based VNC client.
 </code></pre>
 <h3><a href="https://github.com/9-5/Chromium-Intelligence">Chromium Intelligence</a></h3>
 <pre><code>
-A powerful Chromium extension that leverages the Gemini API to assist with various
+A powerful Chromium extension that leverages the multiple AI APIs to assist with various
 text operations, image analysis, and PDF processing.
 </code></pre>
 
