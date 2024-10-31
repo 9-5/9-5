@@ -4,11 +4,13 @@
 
 <div align="center">
 <h2>Interesting Projects of Mine</h2>
+<img src="https://johnle.org/projects/img/winpe-vnc.png" height="25%" width="25%"/>
 <h3><a href="https://github.com/9-5/WinPE-VNC">WinPE VNC</a></h3>
 <pre><code>
 A VNC server within Windows Pre-Installation Environment, with a fully functional
 browser-based VNC client.
 </code></pre>
+<img src="https://github.com/9-5/Chromium-Intelligence/blob/main/ext/logo.png" height="10%" width="10%"/>
 <h3><a href="https://github.com/9-5/Chromium-Intelligence">Chromium Intelligence</a></h3>
 <pre><code>
 A powerful Chromium extension that leverages the multiple AI APIs to assist with various
