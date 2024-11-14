@@ -16,6 +16,11 @@ browser-based VNC client.
 A powerful Chromium extension that leverages the multiple AI APIs to assist with various
 text operations, image analysis, and PDF processing.
 </code></pre>
+<img src="https://github.com/9-5/Zennit/blob/main/assets/zennit-logo.png" height="10%" width="10%"/>
+<h3><a href="https://github.com/9-5/Zennit">Zennit</a></h3>
+<pre><code>
+A zen and peaceful way to view the frontpage of the internet, Reddit.
+</code></pre>
 
 ---
 
