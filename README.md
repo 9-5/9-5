@@ -1,5 +1,8 @@
 <h1 align="center">I'm John.</h1>
 <h2 align="center">I'm a developer, tinkerer, engineering professional and IT hobbyist.</h2>
+<div align="center">
+<a href="https://ż.co">ż.co</a> | <a href="https://0kb.org">0KB.org</a> | <a href="https://johnle.org">johnle.org</a>
+</div> 
 <h2 align="center">Latest Blog Post: <a href="https://johnle.org/blog/WinPE-VNC">Empowering WinPE with a Browser-Based VNC</a></h2>
 
 <div align="center">
