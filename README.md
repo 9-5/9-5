@@ -12,7 +12,6 @@
   from low-level system interactions to user-facing web applications.
 </p>
 
-<!-- Project Grid Section (from above) -->
 <h2 align="center">🖥️ My Projects & Creations</h2>
 <p align="center">A selection of tools, apps, and experiments I've built. Click an icon or title to explore!</p>
 
