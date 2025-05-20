@@ -1,4 +1,4 @@
-<h1 align="center">I'm John</h1>
+<h1 align="center">👾 I'm John</h1>
 <h3 align="center">Developer, Tinkerer, Engineering Professional & IT Hobbyist.</h3>
 <p align="center">
   <a href="https://oj.hn" target="_blank">oj.hn</a> | 
