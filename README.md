@@ -1,45 +1,81 @@
-<h1 align="center">I'm John.</h1>
-<h2 align="center">I'm a developer, tinkerer, engineering professional and IT hobbyist.</h2>
-<div align="center">
-<a href="https://ż.co">ż.co</a> | <a href="https://0kb.org">0KB.org</a> | <a href="https://oj.hn">oj.hn</a> | <a href="https://johnle.org">johnle.org</a>
-</div> 
-<h2 align="center">Latest Blog Post: <a href="https://oj.hn/cLockbox/">cLockbox: Your Secret Digital Stash Spot - Built Right in Your Browser!</a></h2>
+<h1 align="center">I'm John</h1>
+<h3 align="center">Developer, Tinkerer, Engineering Professional & IT Hobbyist.</h3>
+<p align="center">
+  <a href="https://oj.hn" target="_blank">oj.hn</a> | 
+  <a href="https://johnle.org" target="_blank">johnle.org</a>
+</p>
 
-<div align="center">
-<h2>Interesting Projects of Mine</h2>
-<img src="https://johnle.org/projects/img/winpe-vnc.png" height="25%" width="25%"/>
-<h3><a href="https://github.com/9-5/WinPE-VNC">WinPE VNC</a></h3>
-<pre><code>
-A VNC server within Windows Pre-Installation Environment, with a fully functional
-browser-based VNC client.
-</code></pre>
-<img src="https://github.com/9-5/Chromium-Intelligence/blob/main/ext/logo.png" height="10%" width="10%"/>
-<h3><a href="https://github.com/9-5/Chromium-Intelligence">Chromium Intelligence</a></h3>
-<pre><code>
-A powerful Chromium extension that leverages the multiple AI APIs to assist with various
-text operations, image analysis, and PDF processing.
-</code></pre>
-<img src="https://github.com/9-5/Zennit/blob/main/assets/zennit-logo.png" height="10%" width="10%"/>
-<h3><a href="https://github.com/9-5/Zennit">Zennit</a></h3>
-<pre><code>
-A zen and peaceful way to view the frontpage of the internet, Reddit.
-</code></pre>
-<img src="https://github.com/9-5/cLockbox/blob/main/assets/cLockbox.png" height="10%" width="10%"/>
-<h3><a href="https://github.com/9-5/cLockbox">cLockbox</a></h3>
-<pre><code>
-It's a clock. It's a lockbox. It's cLockbox.
-cLockbox is a unique take on a clock web app that also has a discreet lockbox for files,
-photos/videos, and notes.
-</code></pre>
+<h2 align="center">👨🏻‍💻 About Me</h2>
+<p align="center">
+  I'm passionate about leveraging technology to build efficient and innovative solutions. 
+  My curiosity drives me to constantly explore new tools and techniques, 
+  from low-level system interactions to user-facing web applications.
+</p>
 
----
+<!-- Project Grid Section (from above) -->
+<h2 align="center">🖥️ My Projects & Creations</h2>
+<p align="center">A selection of tools, apps, and experiments I've built. Click an icon or title to explore!</p>
 
-###
-<h4 align="center">Where curiosity and innovation come together to build efficient solutions.</h4>
-<h3 align="center">Reach me via email <a href="mailto:john@johnle.org">john@johnle.org</a></h3>
+<table align="center" width="100%" style="max-width: 900px; margin-left: auto; margin-right: auto; border-collapse: separate; border-spacing: 15px;">
+  <tr>
+    <td align="center" valign="top" width="33%" style="border: 1px solid #444; border-radius: 10px; padding: 15px;">
+      <a href="https://github.com/9-5/1q" target="_blank">
+        <img src="https://github.com/9-5/1q/raw/main/assets/icons/1Q.svg" alt="1q Icon" width="64" height="64" style="border-radius: 8px; margin-bottom:10px;"/>
+      </a><br/>
+      <strong><a href="https://github.com/9-5/1q" target="_blank">1q</a></strong><br/>
+      <small><em>A CLI app where the perfect command is one query away.</em></small><br/>
+    </td>
+    <td align="center" valign="top" width="33%" style="border: 1px solid #444; border-radius: 10px; padding: 15px;">
+      <a href="https://github.com/9-5/cLockbox" target="_blank">
+        <img src="https://github.com/9-5/cLockbox/raw/main/assets/cLockbox.png" alt="cLockbox Icon" width="64" height="64" style="border-radius: 8px; margin-bottom:10px;"/>
+      </a><br/>
+      <strong><a href="https://github.com/9-5/cLockbox" target="_blank">cLockbox</a></strong><br/>
+      <small><em>A clock web app with a discreet, browser-based lockbox for files & notes.</em></small><br/>
+    </td>
+    <td align="center" valign="top" width="33%" style="border: 1px solid #444; border-radius: 10px; padding: 15px;">
+      <a href="https://github.com/9-5/Chromium-Intelligence" target="_blank">
+        <img src="https://github.com/9-5/Chromium-Intelligence/raw/main/ext/logo.png" alt="Chromium Intelligence Icon" width="64" height="64" style="border-radius: 8px; margin-bottom:10px;"/>
+      </a><br/>
+      <strong><a href="https://github.com/9-5/Chromium-Intelligence" target="_blank">Chromium Intelligence</a></strong><br/>
+      <small><em>AI-powered Chromium extension for text, image, and PDF assistance.</em></small><br/>
+    </td>  
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="33%" style="border: 1px solid #444; border-radius: 10px; padding: 15px;">
+      <a href="https://github.com/9-5/Zennit" target="_blank">
+        <img src="https://github.com/9-5/Zennit/raw/main/assets/zennit-logo.png" alt="Zennit Icon" width="64" height="64" style="border-radius: 8px; margin-bottom:10px;"/>
+      </a><br/>
+      <strong><a href="https://github.com/9-5/Zennit" target="_blank">Zennit</a></strong><br/>
+      <small><em>A zen and peaceful way to view the frontpage of the internet, Reddit.</em></small><br/>
+    </td>
+    <td align="center" valign="top" width="33%" style="border: 1px solid #444; border-radius: 10px; padding: 15px;">
+      <a href="https://github.com/9-5/WinPE-VNC" target="_blank">
+        <img src="https://camo.githubusercontent.com/c5fbc58dc506f5be83bd4dd59daf6cddc954d7f1c8e25d67c7d85974c464e622/68747470733a2f2f6a6f686e6c652e6f72672f70726f6a656374732f696d672f77696e70652d766e632e706e67" alt="WinPE VNC Icon" width="50%" height="50%" style="border-radius: 8px; margin-bottom:10px;"/> 
+      </a><br/>
+      <strong><a href="https://github.com/9-5/WinPE-VNC" target="_blank">WinPE VNC</a></strong><br/>
+      <small><em>VNC server for Windows PE with a browser-based client for remote access.</em></small><br/>
+    </td>
+    <td width="33%"></td> 
+  </tr>
+</table>
+<p align="center" style="margin-top: 10px;">
+  ... and many more in <a href="https://github.com/9-5?tab=repositories" target="_blank">my repositories</a>!
+</p>
 
-<div align="center">
-  <a href="https://linkedin.com/in/johnle" target="blank"><img align="center" src="https://raw.githubusercontent.com/9-5/9-5/main/linkedin.png" alt="johnle" height="50" width="50" /></a>
-<a href="https://johnle.org/"><img align="center" src="https://raw.githubusercontent.com/9-5/9-5/main/web.png" alt="johnle.org" height="50" width="50" /></a>
-<a href="https://github.com/9-5/"><img align="center" src="https://raw.githubusercontent.com/9-5/9-5/main/github.png" height="50" width="50" /></a>
-</div>
+<h3 align="center">💭 My Latest Blog Post</h3>
+<p align="center">
+  <a href="https://oj.hn/1q" target="_blank"><strong>1q: One query for the right one-liner</strong></a>
+  <br/>
+  <em>Check out more posts on <a href="https://oj.hn/" target="_blank">oj.hn</a>!</em>
+</p>
+
+<hr/>
+<h3 align="center">📬 Get In Touch</h3>
+<p align="center">
+  Reach me via email at <a href="mailto:john@johnle.org">john@johnle.org</a> or connect with me:
+</p>
+<p align="center">
+  <a href="https://linkedin.com/in/johnle" target="_blank"><img src="https://raw.githubusercontent.com/9-5/9-5/main/linkedin.png" alt="LinkedIn - John Le" height="50" width="50" /></a>
+  <a href="https://johnle.org/" target="_blank"><img src="https://raw.githubusercontent.com/9-5/9-5/main/web.png" alt="Website - johnle.org" height="50" width="50" /></a>
+  <a href="https://github.com/9-5/" target="_blank"><img src="https://raw.githubusercontent.com/9-5/9-5/main/github.png" alt="GitHub - 9-5" height="50" width="50" /></a>
+</p>
