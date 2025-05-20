@@ -50,7 +50,7 @@
     </td>
     <td align="center" valign="top" width="33%" style="border: 1px solid #444; border-radius: 10px; padding: 15px;">
       <a href="https://github.com/9-5/WinPE-VNC" target="_blank">
-        <img src="https://camo.githubusercontent.com/c5fbc58dc506f5be83bd4dd59daf6cddc954d7f1c8e25d67c7d85974c464e622/68747470733a2f2f6a6f686e6c652e6f72672f70726f6a656374732f696d672f77696e70652d766e632e706e67" alt="WinPE VNC Icon" width="50%" height="50%" style="border-radius: 8px; margin-bottom:10px;"/> 
+        <img src="https://github.com/user-attachments/assets/9a1e0fc7-ce00-4cd3-9f88-70ed5d14f73f" alt="WinPE VNC Icon" width="64" height="64" style="border-radius: 8px; margin-bottom:10px;"/> 
       </a><br/>
       <strong><a href="https://github.com/9-5/WinPE-VNC" target="_blank">WinPE VNC</a></strong><br/>
       <small><em>VNC server for Windows PE with a browser-based client for remote access.</em></small><br/>
