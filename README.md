@@ -1,8 +1,9 @@
 <h1 align="center">👾 I'm John</h1>
 <h3 align="center">Developer, Tinkerer, Engineering Professional & IT Hobbyist.</h3>
 <p align="center">
-  <a href="https://oj.hn" target="_blank">oj.hn</a> | 
-  <a href="https://johnle.org" target="_blank">johnle.org</a>
+  <a href="https://bor.i.ng" target="_blank" title="bor.i.ng: A boring website with nothing interesting.">bor.i.ng</a> |
+  <a href="https://oj.hn" target="_blank" title="oj.hn: My personal website and blog.">oj.hn</a> | 
+  <a href="https://johnle.org" target="_blank" title="johnle.org: My professional website.">johnle.org</a>
 </p>
 
 <h2 align="center">👨🏻‍💻 About Me</h2>
