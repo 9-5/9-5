@@ -19,6 +19,13 @@
 <table align="center" width="100%" style="max-width: 900px; margin-left: auto; margin-right: auto; border-collapse: separate; border-spacing: 15px;">
   <tr>
     <td align="center" valign="top" width="33%" style="border: 1px solid #444; border-radius: 10px; padding: 15px;">
+      <a href="https://github.com/9-5/moat" target="_blank">
+        <img src="https://github.com/9-5/moat/raw/main/assets/moat.png" alt="Moat Icon" width="64" height="64" style="border-radius: 8px; margin-bottom:10px;"/>
+      </a><br/>
+      <strong><a href="https://github.com/9-5/moat" target="_blank">Moat</a></strong><br/>
+      <small><em>A moat built to secure self-hosted apps for remote access.</em></small><br/>
+    </td>
+    <td align="center" valign="top" width="33%" style="border: 1px solid #444; border-radius: 10px; padding: 15px;">
       <a href="https://github.com/9-5/1q" target="_blank">
         <img src="https://github.com/9-5/1q/raw/main/assets/icons/1Q.svg" alt="1q Icon" width="64" height="64" style="border-radius: 8px; margin-bottom:10px;"/>
       </a><br/>
@@ -32,15 +39,15 @@
       <strong><a href="https://github.com/9-5/cLockbox" target="_blank">cLockbox</a></strong><br/>
       <small><em>A clock web app with a discreet, browser-based lockbox for files & notes.</em></small><br/>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="33%" style="border: 1px solid #444; border-radius: 10px; padding: 15px;">
       <a href="https://github.com/9-5/Chromium-Intelligence" target="_blank">
         <img src="https://github.com/9-5/Chromium-Intelligence/raw/main/ext/logo.png" alt="Chromium Intelligence Icon" width="64" height="64" style="border-radius: 8px; margin-bottom:10px;"/>
       </a><br/>
       <strong><a href="https://github.com/9-5/Chromium-Intelligence" target="_blank">Chromium Intelligence</a></strong><br/>
       <small><em>AI-powered Chromium extension for text, image, and PDF assistance.</em></small><br/>
-    </td>  
-  </tr>
-  <tr>
+    </td>
     <td align="center" valign="top" width="33%" style="border: 1px solid #444; border-radius: 10px; padding: 15px;">
       <a href="https://github.com/9-5/Zennit" target="_blank">
         <img src="https://github.com/9-5/Zennit/raw/main/assets/zennit-logo.png" alt="Zennit Icon" width="64" height="64" style="border-radius: 8px; margin-bottom:10px;"/>
@@ -55,7 +62,6 @@
       <strong><a href="https://github.com/9-5/WinPE-VNC" target="_blank">WinPE VNC</a></strong><br/>
       <small><em>VNC server for Windows PE with a browser-based client for remote access.</em></small><br/>
     </td>
-    <td width="33%"></td> 
   </tr>
 </table>
 <p align="center" style="margin-top: 10px;">
