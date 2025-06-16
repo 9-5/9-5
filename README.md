@@ -13,7 +13,7 @@
   from low-level system interactions to user-facing web applications.
 </p>
 
-<h2 align="center">🖥️ My Projects & Creations</h2>
+<h2 align="center">🖥️ My Projects</h2>
 <p align="center">A selection of tools, apps, and experiments I've built. Click an icon or title to explore!</p>
 
 <table align="center" width="100%" style="max-width: 900px; margin-left: auto; margin-right: auto; border-collapse: separate; border-spacing: 15px;">
